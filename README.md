@@ -1,2 +1,2 @@
 # issblog
-my blog
+a blog write in github issue
